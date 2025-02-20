@@ -49,7 +49,7 @@ function App() {
               <Mail className="w-8 h-8 text-[#34519e]" />
             </div>
             <p className="text-lg font-medium text-gray-900 mb-3">E-mail</p>
-            <p className="text-gray-600 hover:text-[#34519e] transition-colors">
+            <p className="text-gray-600 hover:text-[#34519e] transition-colors text-center bg-gray-50 px-4 py-2 rounded-lg">
               contact@hub-environnement.com
             </p>
           </a>
@@ -60,7 +60,10 @@ function App() {
             </div>
             <p className="text-lg font-medium text-gray-900 mb-3">Adresse</p>
             <p className="text-gray-600 text-center">
-              3 rue des Entrepôts,<br />69014 Lyon
+              Les Passerelles<br />
+              24 Rue Joannes Maset<br />
+              69009 Lyon<br />
+              Bâtiment 3, Étage 1
             </p>
           </div>
         </div>
